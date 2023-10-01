@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [results-summary](https://github.io.687edf53/results-summary)
+- Website - [results-summary](https://687edf53.github.io/results-summary)
 - Frontend Mentor - [@687edf53](https://www.frontendmentor.io/profile/687edf53)
 
 
